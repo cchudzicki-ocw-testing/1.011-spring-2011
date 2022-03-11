@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: index.pdf
-uid: 97db044a-ed01-489e-9122-820e847680bf
+uid: 74c8878d-e0a2-428f-ada1-c92031282cf1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
