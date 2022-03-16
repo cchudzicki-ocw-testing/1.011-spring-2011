@@ -2,17 +2,17 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-011-project-evaluation-spring-2011/index.pdf
-file_type: application/pdf
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-011-project-evaluation-spring-2011/index.jpg
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: ''
-resourcetype: Document
-title: index.pdf
-uid: 506a62b2-55b0-4c17-97f7-6163a8145161
+resourcetype: Image
+title: index.jpg
+uid: b0e565a6-441e-4ddb-9e9b-076cb4d017cf
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
