@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
 ---
@@ -41,7 +40,7 @@ Textbook
 
 Martland, Carl D. _Toward More Sustainable Infrastructure: Project Evaluation for Planners and Engineers_. John Wiley, 2011. ISBN: 9780470448762.
 
-Chapter assignments from this book and other readings can be found in the {{% resource_link 96b480fa-dee1-1dac-1a05-134adc9d261b "Readings" %}} section of this course.
+Chapter assignments from this book and other readings can be found in the {{< resource_link 96b480fa-dee1-1dac-1a05-134adc9d261b "Readings" >}} section of this course.
 
 Teaching Modalities
 -------------------

@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 314b9f96-fe11-689c-df83-246d3d760637
 ---
@@ -50,7 +49,7 @@ The topic selection is intentionally open-ended. To ensure wise project choices,
 
 When developing your project, please review the project evaluation checklist to make sure all the important issues have been considered.
 
-{{% resource_link 6ae88a7c-13ea-9f8a-b8da-68a6c7343768 "Project Evaluation Checklist" %}}
+{{< resource_link 6ae88a7c-13ea-9f8a-b8da-68a6c7343768 "Project Evaluation Checklist" >}}
 
 Feedback
 --------
@@ -158,9 +157,9 @@ Lec #26
 
 Examples of the final report are available below. All work is courtesy of MIT Students and is used with permission.
 
-Sydney Opera House ({{% resource_link 91e34cd9-b553-0dc0-8170-22821ae6381e "PDF - 1.8MB" %}})
+Sydney Opera House ({{< resource_link 91e34cd9-b553-0dc0-8170-22821ae6381e "PDF - 1.8MB" >}})
 
-Atlanta BeltLine ({{% resource_link b69bd164-0081-aea4-0235-0ea9cfb3b2de "PDF" %}})
+Atlanta BeltLine ({{< resource_link b69bd164-0081-aea4-0235-0ea9cfb3b2de "PDF" >}})
 
 ### Oral Presentations
 
